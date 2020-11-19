@@ -1,2 +1,2 @@
-# profile
+# Profile
 Redesign my profile page
